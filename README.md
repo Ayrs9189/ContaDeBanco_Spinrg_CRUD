@@ -1,2 +1,2 @@
-# ContaDeBanco_Spinrg_CRUD
+# ContaDeBanco_Spring_CRUD
 API com SpringBoot em Kotlin
